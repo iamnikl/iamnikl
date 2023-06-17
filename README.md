@@ -11,6 +11,7 @@ Working with:
 - JavaScript
 - TypeScript
 - Svelte
+- React
 - HTML
 - SCSS / SASS
 - CSS
